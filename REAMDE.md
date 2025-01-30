@@ -1,4 +1,4 @@
-hexagonal-architecture/
+`hexagonal-architecture/
 │── src/
 │ ├── domain/ # Entities and types
 │ ├── application/ # Use cases (business rules)
@@ -9,4 +9,4 @@ hexagonal-architecture/
 │ │ ├── repositories/
 │ │ ├── server.ts # Initializes the app
 │── package.json
-│── tsconfig.json
+│── tsconfig.json`
