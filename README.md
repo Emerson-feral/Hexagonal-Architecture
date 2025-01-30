@@ -1,4 +1,4 @@
-# Hexagonal structure
+# Hexagonal folder structure
 
 ```
 hexagonal-architecture/
