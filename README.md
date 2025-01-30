@@ -1,5 +1,6 @@
-# hexagonal structure
+# Hexagonal structure
 
+```
 hexagonal-architecture/
 │── src/
 │   ├── domain/            # Entities and types
@@ -12,3 +13,4 @@ hexagonal-architecture/
 │   │   ├── server.ts      # Initializes the app
 │── package.json
 │── tsconfig.json
+```
